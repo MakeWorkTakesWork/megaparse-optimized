@@ -18,7 +18,7 @@ MegaParse Optimized extends the powerful [MegaParse](https://github.com/quivrhq/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/megaparse-optimized.git
+git clone https://github.com/MakeWorkTakesWork/megaparse-optimized.git
 cd megaparse-optimized
 
 # Install the package
