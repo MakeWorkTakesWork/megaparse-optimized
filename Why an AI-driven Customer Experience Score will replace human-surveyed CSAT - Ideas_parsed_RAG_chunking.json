@@ -1,0 +1,1067 @@
+{
+  "document_id": "Why an AI-driven Customer Experience Score will replace human-surveyed CSAT - Ideas_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# View Posts",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Brian Donohue May 21 2025",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "We all suffer from survey fatigue",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# View Posts",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Brian Donohue May 21 2025",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "We all suffer from survey fatigue",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# III",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Coverage is the achilles heel for surveys.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer service, uniquely, doesn't need surveys",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# III",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Coverage is the achilles heel for surveys.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer service, uniquely, doesn't need surveys",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "The new Al-driven Customer Experience Score",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2. What was the customer sentiment (if any is detectable)?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "The new Al-driven Customer Experience Score",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2. What was the customer sentiment (if any is detectable)?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CX score: 2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "This new way of measuring exposes uncomfortable findings",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "This new way of measuring exposes uncomfortable findings",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Why the difference?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Why the difference?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Why is this?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Not yet a finding: humans compared to Al Agent",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Why is this?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Not yet a finding: humans compared to Al Agent",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Can we really trust AI?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "So we believe this metric is valid.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Can we really trust AI?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "So we believe this metric is valid.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Table : unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "The end of \"good enough\" metrics",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "The end of \"good enough\" metrics",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# X",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/4/25, 10:03 PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# X",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12/12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

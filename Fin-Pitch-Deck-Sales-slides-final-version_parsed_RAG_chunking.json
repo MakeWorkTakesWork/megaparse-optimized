@@ -1,0 +1,3147 @@
+{
+  "document_id": "Fin-Pitch-Deck-Sales-slides-final-version_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "# Last update: 29 April 2025",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "What\u2019s in this Fin pitch deck",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# [slides 4-5] Intro & goals",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[slide 6] Scene setting & establishing the stakes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# [slides 7] Superior Product + Superior Partner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[slides 8-10] Fin\u2019s performance superiority",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# [slides 11-14] Fin\u2019s AI advantage",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[slides 15-17] We are your trusted partner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# [Customer]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# & Intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Agenda",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "01",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Your goals and challenges",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "02",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Automation and AI in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior product",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "03",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior partnership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "04",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "05",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Demo",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "06",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Next steps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Outcomes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Recap: Align on your current state and ideal future state",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "01",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "02",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "03",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Align: Formalize next steps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Current support setup",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | CHALLENGES & GOALS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Your Goals",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Deliver best in class customer experiences",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Maintain high-quality support at scale",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Streamline operations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Quantifiable Business Outcomes & ROI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Problems to Solve",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Costs to your Business",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Scaling is difficult with limited resources",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Stagnant growth",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Our CS process is inefficient and reactive",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer churn",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Inability to differentiate between customer audiences",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Negative brand reputation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTERCOM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | AI EVOLUTION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The evolution of automation and AI in Customer Service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2000s - 2010s Basic bots",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2015-2022 Smart Assistants",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 'Dumb' bots Decision Trees",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 'Smart' bots Canned Responses",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTERCOM INNOVATION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTERCOM INNOVATION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Launched the first business messenger for customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "ML-powered Resolution bot is released",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==========",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "PRE AI ERA",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==========",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2022-PRESENT AI Chatbots",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Early LLMs Simple queries",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTERCOM INNOVATION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Launched Fin AI Agent 4 months after ChatGPT is released",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "======",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "AI ERA",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "======",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2025+ AI Agents",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Autonomous agents Complex tasks & workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTERCOM INNOVATION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=======================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Note: Customize this slide per industry",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=======================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PRIORITIES | PRODUCT & PARTNERSHIP",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PRIORITY 01",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PRIORITY 02",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior Product",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The #1 AI agent in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior Partnership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Patrick Andrews Senior Principal Product Manager",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Experience and expertise for AI transformation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Liz Moy Senior Developer Relations Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Des Traynor Chief Strategy Officer / Co-Founder",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | FIN IS #1 IN CUSTOMER SUPPORT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The #1 AI agent in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Voted #1 AI agent in customer service on G2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Trusted by over 5,000 CS leaders",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Chosen by the world\u2019s top AI companies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin\u2019s average resolution rate increases 1% every month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# E T A R",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "57%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# N O I T U L O S E R",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Average Resolution Rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Note: you can find verticalized views in the appendix",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | FIN\u2019S PERFORMANCE ADVANTAGE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin resolves the most complex customer queries",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "PERSONALIZED Conversations requiring customer context",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 5 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 20 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 30 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "34%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "32%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "HUMAN TEAM TIME SPENT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "60%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# George Dilthey Head of Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "80%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "100%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "========================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "- - SUPERIOR PRODUCT | FIN\u2019S FOUNDATIONS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "========================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Engineered for customer service scale and complexity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Research-driven AI Lab",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Built for Precision",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Designed for Complexity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Tested at Scale",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Modular sub-agent architecture optimizes each task",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# No-code interface for complete control",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Generative + Deterministic workflow configuration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "200+ A/B tests run across LLMs and configurations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | RESEARCH-DRIVEN AI LAB",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Research led. Customer obsessed.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin.ai/research - Insights from the AI group",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fergal Reid Vice President AI Group",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Pedro Tabacof Principal ML Scientist AI Group",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Rati Zvirawa Director, Product Management AI Group",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "full picture of our model. Delete before use",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | AI ARCHITECTURE BUILT FOR PRECISION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Designed for precision. Optimized for speed.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI ENGINE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "VECTOR SEARCH To understand the question",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CUSTOM RE-RANKERS Refine answers by contextual relevance",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "REFINE Iterative reasoning improves clarity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "GENERATE Answer produced with full content",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "VALIDATE Verifier confirms adherence to business rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# VALIDATES ANSWER Follows guidelines, policies and content",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[ QUERY ]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[ ANSWER ]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Specialized LLMs Task Specialization Prompt Engineering",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | CAPABILITIES DESIGNED FOR COMPLEXITY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Capabilities that drive continuous optimization",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | PROVEN AT GLOBAL SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Global scale and experimentation drive Fin\u2019s performance",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE THAT DRIVES INNOVATION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 5,000+ Customers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 200+ A/B tests",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 45+ Countries & Languages",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Globally diverse customers power continuous iteration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "A/B tests run in live environments to improve real results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ENTERPRISE-GRADE RELIABILITY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Real-time Elastic Scaling",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 99.97% Uptime",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ENTERPRISE-GRADE COMPLIANCE AND SECURITY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SOC 2 Certified",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fully Encrypted",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ISO 42001 Certified",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# HIPAA Compliant",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Compliant with global data Residency requirements",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Partnership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Your trusted adviser in AI transformation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# No hidden costs, no surprises Clear, transparent pricing.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Your team of AI implementation experts",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Go to Market",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Go to Market",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Guides commercial decisions to maximize ROI from day one",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Ensures Fin integrates smoothly with your systems",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Marianne Schultz Accounts executive",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Brian Deeley Senior Sales Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer Success Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Professional Services Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Ryan Nguy Customer Success Manager",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Maxime Lanoy AI deployment architect",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PARTNERSHIP | HOW AI IS IMPACTING SUPPORT TEAMS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "AI enables team scale and specialization",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "OLD STRUCTURE (HUMAN)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "NEW STRUCTURE (HUMAN + AI)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# NEW ROLES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support Leader",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support Leader",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support operations and optimization",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support operations and optimization",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Human support agents: Tier 2, Tier 3 structure",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI Specialists",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Conversation design",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Knowledge management",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Workspace management",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# System analyst",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Analyze",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Train",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Review current support structure",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Train your team to manage and collaborate with AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Test Fin in real-world customer scenarios",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Identify where AI fits best in your operation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Define and introduce new AI-specific roles",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Set up Fin: connect external sources, configure Fin",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Benchmark performance using proven frameworks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Deploy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Roll out AI in phases to drive adoption and impact",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Monitor performance and surface content or taxonomy gaps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Thank you",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Case Studies & Social Proof",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Anthropic, a leading LLM provider, chose Fin.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# FIN INVOLVEMENT RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201cIf you\u2019re debating whether to build your",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "own AI solution or buy one, as a fast-growing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# company in a complex space, my advice",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "would be to buy \u2013 and specifically, buy Fin.\u201d",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Isabel Larrow Product Support Operations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# FIN INVOLVEMENT RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "96%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# HOURS SAVED",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1,700",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "hours saved in the first month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INDUSTRY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Artificial Intelligence (Al)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Intercom Proprietary and Confidential",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# FIN RESOLUTION RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "50.8%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "achieved in just over a month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AVAILABILITY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24/7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# global support coverage",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Read the full story",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fergal Collins Head of Knowledge, Education and Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "For use if prospect is using Zendesk",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c \u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Emily Lampert Head of Product Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Emily Lampert Head of Product Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Emily Lampert Head of Product Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201cWe recognized that Intercom is a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "For use in \u2018Fin resolves more queries\u2019 section",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# RESULTS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 98% Average involvement rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "59%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Average resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Markus Haverinen",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Head of Support Operations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4.2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Average CSAT out of 5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Jamie Maxwell Operational Excellence Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c \u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin vs alternative",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "73%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "49%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "73%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1.5x",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin was able to resolve 73% of support queries.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin was 1.5x more effective at resolving queries.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Alternative AI Agent resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "For use in \u2018Fin resolves more queries\u2019 section",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lauren Everett",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Senior Director of Customer Onboarding",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin for adtech",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "70%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "55%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "70%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "15+",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Initial Fin resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin resolution rate post partnership*",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin was able to resolve 70% of support queries.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "*Data as of January 2025",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "30",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# George Dilthey",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Head of Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201c",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# RESULTS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 91% Average answer rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "49%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Average resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Paige Sawatzky",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Content & Automation Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40+",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Hours saved per week",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CASE STUDIES & SOCIAL PROOF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===========================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "32",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin\u2019s impact extends far beyond resolution rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INCREASED TEAM BANDWIDTH",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# COST EFFICIENCY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SYNTHESIA",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# RB2B",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Constantina Samara Head of Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Robb Clarke Head of Technical Operations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LINKTREE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TURBOTENANT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# DOVETAIL",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SYNTHESIA",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "42%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7,000",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24/7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "87%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Conversations resolved in <1 week",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Monthly tickets handled",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Affordable support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Real self-serve rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# EXPERIENCE AND QUALITY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# DENTAL INTELLIGENCE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Sam Miller Customer Support Operations Manager",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# HONEYBOOK",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# RB2B",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "+30%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "95%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Self-serve CSAT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Overall CSAT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Appendix",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Your Goals & Challenges",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior Product",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Superior Partnership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Demo",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Next Steps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Case Studies & Social Proof",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Appendix",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# THE FIN AI ENGINE | CONVERSATIONS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Watch Fin Resolve a Complex Customer Issue - End to End",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2023",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "56%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "of support leaders said they invested in AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=======================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Source: The 2025 Customer Service Transformation Report",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=======================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2024",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "76%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "of support leaders said they invested in AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin is the highest performing AI Agent in the industry",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PEAK RESOLUTION RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AVERAGE RESOLUTION RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# GROWTH RESOLUTION RATE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "86%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "57%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fin\u2019s average resolution rate increases 1% every month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | FIN IS #1 IN CUSTOMER SUPPORT FOR SAAS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The #1 AI agent in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Voted #1 AI agent in customer service on G2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Trusted by over 5,000 CS leaders",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Chosen by the world\u2019s top AI companies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The #1 AI agent in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Voted #1 AI agent in customer service on G2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Trusted by over 5,000 CS leaders",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Chosen by the world\u2019s top AI companies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The #1 AI agent in customer service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Voted #1 AI agent in customer service on G2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Trusted by over 5,000 CS leaders",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Chosen by the world\u2019s top AI companies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "full picture of our model. Delete before use",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "TEAM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SUPERIOR PRODUCT | AI ARCHITECTURE BUILT FOR PRECISION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TECHNOLOGY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Designed for precision. Optimized for speed.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CAPABILITIES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI ENGINE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "VECTOR SEARCH To understand the question",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CUSTOM RE-RANKERS Refine answers by contextual relevance",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "REFINE Iterative reasoning improves clarity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "GENERATE Answer produced with full content",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "VALIDATE Verifier confirms adherence to business rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# VALIDATES ANSWER Follows guidelines, policies and content",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[ QUERY ]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[ ANSWER ]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# LLM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Specialized LLMs Task Specialization Prompt Engineering",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | FIN\u2019S PERFORMANCE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin resolves more complex queries than any AI agent in SaaS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# George Dilthey Head of Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "INFORMATIONAL \u25cfFeature explanations \u25cfPlan comparisons",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PERSONALIZED \u25cfOutage statuses \u25cfInvoice Explanations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ACTIONS \u25cfRefunds \u25cf Account Cancellations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 5 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 20 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 30 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "37%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "60%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "80%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "HUMAN TEAM EFFORT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "100%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | FIN\u2019S PERFORMANCE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Jamie Maxwell Operational Excellence Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 5 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 20 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 30 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "34%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "28%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "60%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "80%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "HUMAN TEAM EFFORT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "100%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | FIN\u2019S PERFORMANCE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Loren Kornegay Senior CX Manager",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 5 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 20 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 30 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "34%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "60%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "80%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "HUMAN TEAM EFFORT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "100%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INTRODUCTION | FIN\u2019S PERFORMANCE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# INFORMATIONAL \u25cfGame Rules \u25cfPromotion Details",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PERSONALIZED \u25cfDeposit Status \u25cfBonus eligibility",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ACTIONS \u25cfAccount Recovery \u25cfGaming Credit",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Requests",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 5 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 20 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# TIME/QUERY 30 MINS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "36%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "60%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "80%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "HUMAN TEAM EFFORT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "100%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# THE FIN AI ENGINE | SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI THAT IMPROVES EVERY MONTH AUTOMATICALLY",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5,000+ 200+",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1%",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "customers power continuous product iteration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "============================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==========================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "A/B tests run in live environments to improve real results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==========================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "MOM avg resolution rate lift for 16 months straight",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "===================================================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=========",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "PRECISION",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=========",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CONTROL",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SCALE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Get Fin for Zendesk, no migration required",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# How Fin works on Zendesk",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Set up in under 15 minutes \u25cf Follows your Zendesk ticket",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Handles tickets, emails, live",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# chat, SMS and social",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Hands off to your team directly in your Zendesk workspace",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Continue using all your",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "existing Zendesk automations and reports",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Instant support on tickets, email, live chat, and more",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin for Zendesk keeps the conversation going",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Get Fin for Salesforce, no migration required",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# How Fin works on Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Set up in under 60 minutes \u25cf Follows your Service Cloud\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# case assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Handles cases, emails,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "and messaging",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Instant support on cases, emails, messaging, and more",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin for Salesforce keeps the conversation going",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Outcome-Based Pricing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 99\u00a2 per resolution\u2014no seats and no minimum spend",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Outcome-Based Pricing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "These resolutions are automatically applied by our system",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# THE PARTNERSHIP | HOW AI IS IMPACTING TEAMS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Partnership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# The most trusted team in AI transformation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Your team of AI implementation experts",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Liz Moy Senior Developer Relations Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Patrick Andrews Senior Principal Product Manager",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Brian Deeley Senior Sales Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# THE PARTNERSHIP | HOW AI IS IMPACTING TEAMS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "How CS team structures are changing with AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# OLD WORLD",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "NEW WORLD (HUMAN + AI)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support Leader",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support Leader",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Team Leads",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Teams Leads",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Issue Specialists",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Escalations",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI SPECIALISTS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CONTENT",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# WORKFLOWS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# METRICS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# CONVERSATION DESIGN",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# NEW ROLES",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

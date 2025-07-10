@@ -1,0 +1,1837 @@
+{
+  "document_id": "How attributes can power your Fin Tasks, Workflows, and Actions _ Intercom Help_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Search for articles...",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Table of contents",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# What are attributes?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "People attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Conversation attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Ticket attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Temporary attributes [NEW]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# What types of attributes exist?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# People attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Search for articles...",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Table of contents",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# What are attributes?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "People attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Conversation attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Ticket attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Temporary attributes [NEW]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# What types of attributes exist?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# People attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Tier or plan that the user is on",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Last invoice amount",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Last item purchased",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Company data attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company tax/VAT ID",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Number of employees",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Whether a company is a subsidiary or not",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "N",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Conversation/ticket attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Category or reason for customer query",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Product customer is contacting about",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Follow up needed (true / false)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Temporary attributes [NEW]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "aps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Tier or plan that the user is on",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Last invoice amount",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Last item purchased",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Company data attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company tax/VAT ID",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Number of employees",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Whether a company is a subsidiary or not",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "N",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Conversation/ticket attributes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Category or reason for customer query",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Product customer is contacting about",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Follow up needed (true / false)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Temporary attributes [NEW]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "aps",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Capture a customer's selected booking ID",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Customer's preferred delivery date",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Ask Fin to classify user query or collect some data",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Instructions Results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "N",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Capture a customer's selected booking ID",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Customer's preferred delivery date",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Ask Fin to classify user query or collect some data",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Instructions Results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "N",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"refund\".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"refund\".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Classify user query",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Close",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Instructions Results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "references later in the workflow.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Name",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Description",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Format",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Why the user is contacting us",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Text",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "contact reason",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "+ Add result",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Read more tips and best practices for Fin Tasks.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "not Ticket attributes.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Collecting data in a Workflow or Fin Task",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Classify user query",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Close",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Instructions Results",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "references later in the workflow.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Name",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Description",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Format",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Why the user is contacting us",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Text",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "contact reason",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "+ Add result",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Read more tips and best practices for Fin Tasks.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "not Ticket attributes.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Collecting data in a Workflow or Fin Task",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Actions",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Actions",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Next, map the action inputs in your Workflow / Fin Task.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nup",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Next, map the action inputs in your Workflow / Fin Task.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nup",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Tip",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Related Articles",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Using branches in Workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Use Fin Al Agent in Workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Give Fin Tasks [beta]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin Task best practices and examples",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Did this answer your question?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "We run on Intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Tip",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Related Articles",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Using branches in Workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Use Fin Al Agent in Workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Give Fin Tasks [beta]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin Task best practices and examples",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Did this answer your question?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "[Image: unknown]",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "We run on Intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==================",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Resources",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Product Changes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Developers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Blog",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Community",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Academy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Webinars",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Home",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "About",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Terms",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Privacy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 5/19/25, 8:27 AM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Resources",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Product Changes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Developers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Blog",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Community",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Academy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Webinars",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Company",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Home",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "About",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Terms",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Privacy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Z",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11/11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=====",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "nups",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

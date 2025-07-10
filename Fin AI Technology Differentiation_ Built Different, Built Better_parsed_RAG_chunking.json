@@ -1,0 +1,112 @@
+{
+  "document_id": "Fin AI Technology Differentiation_ Built Different, Built Better_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "Performance & Precision",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Purpose-Built Retrieval",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Built-In Validation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Why It Matters",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Control & Complexity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "No-Code Power Control",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Handles Real-World Complexity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Unified with Human Support (Suite Only)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Execution & Scale",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Enterprise Scale",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "56% average resolution rate\u2014and growing.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Hundreds of live A/B tests power continuous improvement.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Enterprise KPIs drive every product decision.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Other vendors demo well. Fin delivers where it counts.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Built to Perform, Built to Last",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "99.97% uptime over the past 12 months",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "You can trust Fin to show up when it matters most.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Your Partner in AI Transformation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Playbooks from 5,000+ deployments to guide your journey",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Summary: Why Fin Wins",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin isn\u2019t just better AI. It\u2019s better support.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

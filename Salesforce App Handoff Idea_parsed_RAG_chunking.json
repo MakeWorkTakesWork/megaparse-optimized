@@ -1,0 +1,6037 @@
+{
+  "document_id": "Salesforce App Handoff Idea_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "# Executive Summary",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "while laying the groundwork for scale.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1. Problem Hypotheses & Validation Plan",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Hypothesis",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Why It\u2019s Plausible",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# How to Test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Success Metric (Pass/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fail Criteria)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# H1: Assignment/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Routing Conflict",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and automation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "in Salesforce are",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# misrouting or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "dropping AI-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "handled cases.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin/Ada are supposed",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "to follow existing case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "If rules aren\u2019t triggered",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# or a rule conflict",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reassigns the case (e.g.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# default owner takeover",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# on updates",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ), the AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# agent never actually",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "gets or keeps the case.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "This would stall the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# bot\u2019s involvement or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# prematurely hand off",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# to humans",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# unexpectedly.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Simulation: Create test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "cases that should go to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the AI (e.g. with a specific",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# origin or keyword).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Monitor whether the case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "owner is correctly set to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# the Fin/Ada queue or user.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Update a case via API and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# check if assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# fire unintentionally (e.g.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "owner flips to default)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Also review Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Setup for multiple active",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# rules or triggers that",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "might conflict.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Pass: 100% of test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "cases intended for AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "are assigned to the AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# bot user/queue and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# remain so until handoff.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# No unexpected owner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# changes on case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Some cases bypass the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "AI queue or get",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reassigned (owner =",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# default or human",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# queue) without proper",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# triggers.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Hypothesis",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# H2: Context &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Continuity Loss \u2013",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Conversation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# context",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(transcripts,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# customer info)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "isn\u2019t preserved",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "when handing off from AI to human",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "agents, leading to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# duplicate or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# incomplete cases.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Why It\u2019s Plausible",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# A smooth AI-to-human",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "handoff requires",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "preserving full context",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". If the bot fails to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# attach the conversation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "transcript or uses a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# new case instead of",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "updating the existing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "one, agents might see",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "an empty or duplicate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "case. Ada\u2019s integration,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# for example, explicitly",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# transfers conversation details into the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce Case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . Fin",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "likewise promises to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u201cstructure every",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# answer\u201d with full",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# context",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . Any gap",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "here forces customers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "to repeat themselves,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "undermining CX.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# How to Test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# End-to-End Dry Run: Trigger",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# the AI agent on a sample",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "inquiry that escalates.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Verify the resulting",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce case contains",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# the full chat/email",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# records) and relevant",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# customer data (contact",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "link, subject, etc.). Check if",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# a single case persists",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# through the bot and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# human stages (vs. multiple",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# case records for one",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# issue). Survey support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "agents if they needed to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "ask the customer to repeat",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# information.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Success Metric (Pass/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fail Criteria)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Pass: The case visible",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# to a human agent",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "includes the AI\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# conversation transcript",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and customer info, with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# no need for the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# customer to re-explain.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Only one case exists per",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# customer issue (no",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# duplicate case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Important context is",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "missing (empty",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# description or no chat",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "log), or a new case is",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "created upon handoff",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(duplicate), causing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# agents or customers to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# backtrack.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Hypothesis",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Why It\u2019s Plausible",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# How to Test",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Success Metric (Pass/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Fail Criteria)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# As an external app, the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AI agent relies on",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Pass: The integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce API calls. If",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "detects lost connectivity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# the OAuth token",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Intentionally revoke the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (e.g. token expiration)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# disconnects or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Salesforce OAuth token or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and alerts or retries",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# expires, the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "simulate an API error, then",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# promptly; case creation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# integration halts",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# observe Fin/Ada behavior",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# resumes after re-auth.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# H3: Integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Connectivity",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lapse \u2013 The",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce\u2013AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# sometimes fails",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (due to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "authentication,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# API limits, or field",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "mapping errors),",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "causing Fin/Ada",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "to stop creating",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# or updating cases.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Indeed, Intercom notes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "that if the token is",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "manually removed or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "expired, \u201cthe",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "integration will stop",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "working\u201d hitting Salesforce API",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". Similarly,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "call limits would pause",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# case sync",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . Field",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "mismatches (missing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "required fields or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "changed API names)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "can also cause case-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# creation attempts to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 does it log errors or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# attempt reconnection?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Check the integration\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# admin console (Intercom\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# or Ada\u2019s) for error logs or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "health status flags (Intercom provides a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# health check UI for errors",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ). Also, review",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce API usage logs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "during peak times to see if",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "limits were hit. Field",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Mapping Test: Temporarily",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "remove or hide a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# No sustained drop in",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# case creation rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "during testing. Field",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# mapping issues",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# produce clear errors",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "that can be caught in testing.<br>- Fail: The",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "AI fails to create or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# update cases with no",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# immediate alert (silent",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "failure). Error logs show",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# authentication failures",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# or API limit errors",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "coinciding with times",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "silently fail",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce field the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "when cases were",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# These issues would",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "integration expects (e.g.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# dropped. Integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# manifest as Fin not",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Contact Email) and see if",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "requires manual re-auth",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "creating cases at all (as",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the case creation fails with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# far too often (e.g. token",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# some Intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# an error.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# issues more than",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "customers have",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# quarterly).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reported).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2. Deep Technical Analysis",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2.1 Salesforce Service Cloud Integration Points",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# user or queue for Fin",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "13",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# rules by default",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". Such behavior can break the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "rule control on API calls to prevent unwanted reassignments",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "expires, no API calls go through",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". We discovered common admin actions (like removing an",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "immediately halting case sync",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# OAuth tokens per user (usually 5)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "15",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 if exceeded, new logins fail. A robust integration should",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# field like Case Reason or Description",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "16",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(though \u201cReason\u201d is a picklist in standard SF, so a custom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 by analogy, Fin\u2019s case integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "might expect specific fields to be present.)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Live Chat APIs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "17",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needed context (visitor ID, chat transcript snippet, etc.).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Salesforce would push a notification out immediately",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". This aligns with a more scalable",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "19",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2.2 Intercom\u202fFin / Ada API Workflows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# OAuth and APIs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "chat \u2013 directly within Service Cloud",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "23",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . In practice, this",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ), and the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# conversation history if any",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and legacy LiveAgent for chat",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "25",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "customer confirms\u201d",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". If the customer says the answer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "28",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . At",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# , i.e., the agent just",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "sees the case in their queue with the full thread.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". This implies it tries",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# them out by owner = Fin).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the bot confidence is low).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# transcript, summary, user info into variables",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "30",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". This ensures the full context is captured in text",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# form.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# details",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# the transcript text)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "16",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# a token)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "32",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# returns a Case ID.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "33",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . This implies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# messages.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# . It",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "34",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# , essentially",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "handoff will fail (user might just get stuck or dropped).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# message configuration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "35",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "agent right now\u201d if case creation fails).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# customer replies on an open case.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "36",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "suggests they do log",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "conversation is dropped even if one call fails.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 2.3 Bottleneck & Failure Mapping",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Assignment Rule intended to assign to AI fires.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "comes.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "37",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "13.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "15.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "16.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "17.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "19.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (e.g., change Status to \u201cIn Progress \u2013 AI\u201d).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "missing info so Fin has what it needs).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reassign the case away from Fin mid-stream .",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# suppress re-running assignment rules",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". Also ensure the From address used is correct (if the org",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# larger scope).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# new | query. |",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# either. |  |",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "essentially \u201cunattended\u201d by the bot, awaiting human.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "23.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "25.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "28.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "in the same email thread or chat session).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "proactively. Without visibility, that\u2019s impossible.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# field | or the | Description | for easy reference |",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "38",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". Modern AI like Fin can generate conversation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# option",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "provides \u201crouted to team rate\u201d and \u201cAI resolution rate\u201d",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "39",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "using the data logged.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "leave cases hanging open.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "=",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "each step succeeds before moving on).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3. Solution Architectures",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# A. Managed Package Fix (Native AppExchange Package)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "19",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needed, making the product more attractive.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# monitor the integration.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "41",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and demands",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "high-volume platform events if properly licensed).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# B. Middleware Orchestrator (External Cloud Service)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "closed beta",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "42",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "for credibility, even if the core is external.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Agentforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "43",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "ecosystem rather than solely relying on third-party.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# instead of the AI polling repeatedly)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Approach",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Pros",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Cons",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Native UX & Security: Runs entirely",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# A. Managed",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Package",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Native SF App)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Customers can install via",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange, after rigorous security",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# review (a plus for enterprise",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# credibility). <br>- Low external",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# dependencies: No additional servers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "to maintain; works offline from",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Salesforce\u2019s perspective (no internet",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "dependency except to call AI APIs).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>- Deep Integration: Can use",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Salesforce features (Omni-Channel,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Knowledge, Flows) to enhance AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Development Complexity: Requires",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce-specific expertise (Apex, LWC)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "and navigating governor limits. <br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Release Cycle: Updating managed",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "packages is slower; bug fixes require",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "package version upgrades by clients. <br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Initial Overhead: Security review (4\u20136+",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# weeks)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "41",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and Salesforce ISV registration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needed before launch. <br>- Limited",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Cross-Platform: Designed for Salesforce-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "first; harder to extend to other CRMs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# without separate builds.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# handoff in ways external apps might",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "not easily do.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "13",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Approach",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Pros",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Cons",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Data Residency/Compliance: Customer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Flexible & Agile: Can iterate rapidly",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "data leaves Salesforce; need strong",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# in a modern tech stack (Node/Python/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# encryption, GDPR compliance, possible",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# etc.), integrate with multiple AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# data center localization (EU, US, etc.) to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "providers in one codebase. <br>- Rich",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "satisfy enterprise policies. <br>- Uptime",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Processing: Unlimited control over",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Responsibility: We must maintain 24/7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# B. Middleware",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Orchestrator",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (External",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Service)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# retries, logging, and complex logic",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(no SF limits). <br>- Multi-Platform",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Potential: Could evolve to support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Zendesk, ServiceNow, etc., expanding",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# market and acquisition appeal",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# high availability; any outage or slowness",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "directly impacts customers\u2019 support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Requires setup of Connected App, OAuth,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and trust from SF org to our service; some",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "beyond just Salesforce. <br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "clients may prefer an in-house app over a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Independent Scaling: Scales on",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "third-party server in the loop. <br>- Sales",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "without impacting SF performance.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# demonstrate security and ROI vs. an",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange native solution.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# into Salesforce and other systems).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4. 6\u2011to\u201112\u2011Month Roadmap",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0-1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3-4",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Milestone &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Focus",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Deep Discovery",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# & Design",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1-4)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Research &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Hypothesis",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Validation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Prototype",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Development",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Spike)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5-8)<br>- Build",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# small PoC for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# critical path",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# MVP Build \u2013",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Core",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9-16)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Develop the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Minimum Viable",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Product focusing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "on fixing the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# handoff loop",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Owner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Primary",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Responsible)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Founder/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Architect",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Intercom AE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# as PM) +",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Consultant",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Developer +",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Backend",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Backend/API",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (lead), SF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Developer,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Part-time SF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Admin for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# config",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Deliverables & Metrics",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Conduct stakeholder interviews (incl. ex-Intercom",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "engineers, pilot customers) to validate the three",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "hypotheses in real scenarios. <br>\u2013 Detailed technical",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "design document covering data flow diagrams, object",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "models, and API touchpoints. <br>\u2013 Decision on core",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "architecture (Package vs Middleware or hybrid) based",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "on discovery (include a risk analysis). <br>\u2013 Initial",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "product requirements and user stories drafted (e.g.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201cAs a support manager, I want AI-resolved cases auto-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "closed with proper tags\u201d).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "testing. <br>\u2013 Basic prototype that creates a case via",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "API and receives an AI answer: for example, a script",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "that simulates Fin\u2019s behavior on a new case (since Fin",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "API might not be open, use a mock LLM service).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "<br>\u2013 Validate connectivity: demonstrate an OAuth",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "flow working, a Platform Event subscription working",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "externally, and a case being updated via API from",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# external service. <br>\u2013 Internal demo of the prototype",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "solving a sample case end-to-end (with logs).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Success = confirmation that our approach can",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# technically work, and identification of any showstoppers",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# early.)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Case Routing Engine implemented: e.g., an Apex",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "trigger or Flow that publishes an event or calls out to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Set up cloud functions to handle event ingestion and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "call AI API (use Fin\u2019s API if available or a placeholder).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>\u2013 Bi-directional Communication: The AI\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "response (real or mock) comes back and updates the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Case (adds comment/reply, reassigns owner if",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needed). <br>\u2013 Basic error handling and logging in",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "on Case (like \u201cAI_Status__c\u201d with values \u201cPending AI\u201d,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u201cAI Completed\u201d, \u201cEscalated\u201d). <br>\u2013 Unit tests in Apex",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (for triggers) and integration test scripts for the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# service. <br>\u2013 Internal Alpha release: Use test cases",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "to ensure an AI response or a controlled handoff flows",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# through. Confirm no infinite loops or ownership",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# thrash.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "15",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6-7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Milestone &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Focus",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Pilot with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Friendly User(s)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "17-20)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Iterate with real-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# world input",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Product",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Refinement &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Hardening",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21-28)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Incorporate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "feedback,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# expand features",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Owner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Primary",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Responsible)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PM/Founder +",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Solutions",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Engineer, Pilot",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Admin",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "UX Designer,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "SF Dev,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Backend Dev,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# QA Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Deliverables & Metrics",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Identify 1-2 pilot customers (mid-market companies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "open to trying the solution on sandbox orgs). Possibly",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the user (AE) can leverage past contacts. <br>\u2013 Deploy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "MVP to pilot sandbox: Configure it for their org",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(assignment rules or criteria, connect their Fin/Ada).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "<br>\u2013 Collect pilot feedback on: Does AI pick up cases",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reliably? Are agents getting context? Any breakdown",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "observed? <br>\u2013 Fix high-priority issues on the fly",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(Month 5 will include rapid patch releases to pilots).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>\u2013 Success criteria: e.g., a target that Fin/Ada",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# handles at least 50% of applicable cases in pilot",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "and analyzed.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 UX improvements: Build the Lightning component",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "for agent view (if decided), polish any pilot UX pain",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(like unclear status labels, etc.). Possibly design a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "simple dashboard in Salesforce for admins to see AI vs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# human metrics. <br>\u2013 Performance tuning: Ensure",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the event handling and API calls are non-blocking (use",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# asynchronous processing where possible). Test with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "volume (simulate hundreds of cases). <br>\u2013 Security",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# & Compliance checks: Conduct an internal security",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "review of code (Apex scan using Checkmarx,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# penetration test of the middleware API). Address any",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "data privacy concerns (e.g., ensure we\u2019re not storing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "PII unnecessarily in logs). <br>\u2013 Expand integration to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "cover edge cases found in pilot: e.g., if pilot needs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "support for attachments or multi-lingual content,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# address those. <br>\u2013 By end of Month 7, codebase",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "should be Beta-ready for broader use, and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "documentation drafted (admin guide, setup",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# instructions).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "16",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Milestone &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Focus",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Prep & ISV",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Review",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29-32)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Formalize",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# packaging and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "begin security",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# review",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# GTM Plan",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Finalization",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "33-36)<br>-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Marketing, Sales",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# prep pre-launch",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Owner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Primary",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Responsible)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# SF Developer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Package",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Lead),",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Founder/PM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Marketing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (contractor or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "founder),",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Sales Advisor",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Deliverables & Metrics",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Package creation: Convert the Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# components into a Managed Package (namespace",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "registration, packaging org setup). <br>\u2013 Thorough",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "QA in a fresh test org by installing the package and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "connecting to the cloud service \u2013 ensure nothing is",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# environment-specific. <br>\u2013 Prepare Security Review",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "documentation: architecture diagrams, data flow,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# responses to Salesforce\u2019s security questionnaire",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(covering how we handle authentication, encryption,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# etc.). <br>\u2013 Submit package for Salesforce Security",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Review around week 32. (Expect ~4-6 weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "41",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "ensure we have a Business Org for the AppExchange",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# listing.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 Create product name, branding, and an",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange listing draft (copy, screenshots from",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "pilot usage, value prop statements). <br>\u2013 Website",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "and collateral: launch a landing page describing the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "solution and capturing leads. Include a whitepaper or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "case study from pilot if possible. <br>\u2013 Pricing strategy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "determined: e.g., per-case or per-user pricing, or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# value-based (maybe a flat enterprise license). For",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "initial GTM, maybe keep it simple (free pilot, then",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "subscription). <br>\u2013 Reach out to press or Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange marketing channels for potential",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# feature (perhaps a blog on SalesforceBen or similar",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "about AI handoff solutions, to build awareness). <br>\u2013",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Identify target companies (mid-market SaaS",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "companies, etc.) and start warming up contacts for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# post-launch demos.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "17",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Milestone &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Focus",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Owner",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Primary",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Responsible)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Deliverables & Metrics",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 Assuming Security Review feedback is returned by",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# now: address any required fixes or clarifications. (If",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "issues are minor, we can get approval by end of Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10. If major issues, might extend into Month 11.)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "<br>\u2013 Beta launch: Open up the product to a few",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Beta Launch &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Founder/PM,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# more customers beyond the pilot (perhaps via a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# AppExchange",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "private listing or just by providing package and service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Security Result",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Success (early",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "access). Provide high-touch support to ensure",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# hire or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# successful integration. <br>\u2013 Begin formal training",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "37-40)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# founder)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "materials: user guides for support agents and admins,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# maybe short video tutorials on setup and how the AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "human case load by X%\u201d). These will feed GTM",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# materials.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 AppExchange Listing Go-Live (target around month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11 if security review passed): The app becomes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "publicly available. Coordinate a marketing push with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "this: e.g., a blog post on Salesforce AppExchange blog,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "a webinar showcasing the integration (perhaps co-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "hosted with a pilot customer or with a Salesforce AE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "who sees value). <br>\u2013 Sales outreach: Leverage",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Intercom/Fin networks \u2013 since the AE has connections,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "reach out to companies who struggled with Fin or Ada",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "integration and offer our solution. Also engage",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11-12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Public Launch &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Growth",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# <br>(Weeks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "41-52)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Founder/CEO,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Sales &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Partnerships",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Salesforce solution engineers who might refer clients",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needing better bot integration. <br>\u2013 OEM/Tech",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Partnerships: By month 12, initiate talks with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# potential partners: e.g., Intercom product team (pitch",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "that our integration could be an official add-on for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin), or Salesforce (if they have interest in improving AI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "handoff, position our metrics). Possibly also approach",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# other AI CX vendors like Ada or Forethought to",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "support their platform in our integration hub \u2013",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "broadening commercial opportunities. <br>\u2013 KPI",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "tracking: set targets such as: 5 customer orgs",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "deployed by end of year, >90% AI handoff success rate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# in those orgs, and a pipeline of prospects for next",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# year. Use these to measure success and guide",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "whether to pursue further funding or strategic sale.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5. GTM & Commercial Paths",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "rather than compete.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# until their native Agentforce matures",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "44",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". Being on the AppExchange and demonstrating success",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "19",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# integration issues.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# resolution",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "45",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "justifying a few thousand dollars a month in large orgs.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6. Resource & Budget Matrix",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Role",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Developer/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Architect",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Backend",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Administrator/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Consultant",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Product",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Manager /",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Domain Expert",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (Founder AE)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# QA Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Type (FTE/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 1 FTE (or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 1 FTE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 0.5 FTE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(could be",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# contract",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# part-time)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 1 FTE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract (as",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "needed,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "~0.5 FTE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# equivalent)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Est. Annual",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Cost (Range)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$120k \u2013 $150k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(salary) <br>+",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# benefits",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$110k \u2013 $140k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "~$60k (for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# part-time)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \u2013 (Founder\u2019s",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# draw)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$70k \u2013 $90k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (pro-rated)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Start",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Responsibilities",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Own the design of the managed",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "package, Salesforce data model,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "and integration points. Develop",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Apex triggers, Flows, and Lightning",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# components. Ensure code passes",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# security review. Deep knowledge of",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Service Cloud required.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Build and maintain the",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# middleware/orchestration service",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "(if applicable). Develop event",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# subscribers, API clients for Fin/Ada.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "be well-versed in REST APIs, OAuth,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and scaling services.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Configure and test the solution in",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# various Salesforce org scenarios.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Advise on assignment rule setup,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce best practices. During",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# pilots, assist customers in",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# installation and configuration. Also",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "helps with writing knowledge base",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# docs for setup.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Define product requirements and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "use cases (leveraging first-hand",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# knowledge of the Fin integration",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "issues). Liaise with pilot customers,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "translate their needs into features.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Also doubles as Solution",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Architect, ensuring the solution",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# addresses real root causes.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Develop test plans covering end-to-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "end use cases: new case flows,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "various edge cases (reassignments,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# token expiry). Perform regression",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "testing on package and cloud",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# service before each release. Also",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# test in different Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# environments (Sandbox, different",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# versions) for compatibility.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Role",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# UI/UX Designer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# DevOps/Cloud",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Engineer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Security/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Compliance",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Officer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Marketing &",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Communications",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Lead",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Type (FTE/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (project-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "based)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "0.5 FTE (or shared with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# backend",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# engineer)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Advisor",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (fractional)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (fractional)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Est. Annual",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Cost (Range)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$5k \u2013 $10k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (one-time for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# initial design)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$80k \u2013 $100k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (pro-rated)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "~$15k (for",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# consultation)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$50k (for 6-",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# engagement)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Start",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Responsibilities",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "the agent console component UI,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# admin settings pages, and overall",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "flow (ensuring it\u2019s intuitive for SF",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "admins). Since our product is more",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "backend, this may be a small",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "engagement focusing on usability",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "of whatever interface we expose.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Set up and maintain cloud",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "CI/CD pipelines, logging systems,",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# serverless approach, this role",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ensures smooth deployment and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "monitoring. Could be a part-time",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "role or handled by the Backend",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Eng initially, then formalized as we",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# onboard customers.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# GDPR, HIPAA (if health data",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# possible), and AppExchange",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "security readiness. Help prepare",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# documentation for Security Review",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# and later for any enterprise",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# security assessments. This person",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "ensures encryption keys, data",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# retention policies, and access",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "controls are in place. Possibly an",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# external consultant with Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# security expertise.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Develop marketing materials",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# (website, AppExchange listing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# content, press releases). Plan",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "launch campaigns. Could be a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "freelancer or agency specializing in",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "B2B SaaS marketing. Not needed",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "until product is nearing launch",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# readiness.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Role",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Type (FTE/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Contract)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Est. Annual",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Cost (Range)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Start",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Key Responsibilities",
+      "preserve_as_unit": true,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Once the product is ready to sell, a",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "sales lead to drive deals and",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# manage partnerships. Ideally",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Sales/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Partnerships",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Director",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 1 FTE (or",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "could hire",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month 10)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$120k +",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# commission",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# someone with enterprise sales",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# experience in SaaS or Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# ecosystem. Month 10 hire means",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# founder handles sales in early",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "pilots; this role comes to accelerate",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "commercial traction and handle",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# pipeline by public launch.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Ensures pilot and early customer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# monitors the system for any live",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Customer",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Success/Support",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Rep",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# 1 FTE",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "$70k \u2013 $90k",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Month",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# problems and coordinates with",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "engineering to resolve. Starting",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# around launch ensures new",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "customers get white-glove",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# treatment. (Prior to this, the PM/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "founder likely covers these tasks",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# with pilot users.)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "legal fees (e.g., getting contracts reviewed, etc.).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7. Risk & Compliance Checklist",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "23",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "towards it and have basic policies in place.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# diligence on these aspects).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8. Next\u2011Step Action Items (0\u201130\u202fDays)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# gotchas early.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# support for a trial).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "25",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# development sprints.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "suggests not specific to Fin/Ada, but good to confirm).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# partner by end of 30 days.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "keep the development organized as new folks join.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# eye on both technical success and business viability.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Appendices",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". We\u2019ll likely use",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ", it might use Salesforce",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ". For chat, Ada uses",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# POST /services/data/v57.0/sobjects/Case",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "{",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"Origin\": \"Web\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"Subject\": \"ADA: Support Request\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12345]\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"SuppliedName\": \"Jane Doe\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"SuppliedEmail\": \"jane@example.com\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"Status\": \"New\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# \"Priority\": \"Medium\"",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "}",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# items.)",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# PATCH /services/data/v57.0/sobjects/Case/500xx0000001234",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "{",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"Status\": \"Closed\",",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# resolution",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\"ClosedDate\": \"2025-07-08T18:30:00Z\"",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "}",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "will pick up this event via CometD.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# B. Sample Case Routing Flow",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Status \u201cNew\u201d, Owner \u201cUnassigned\u201d.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "field \u201cSolved by AI\u201d and auto-close.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "resolve the case, closing it with standard procedures.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1. Intercom Fin for Salesforce capabilities 1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# team in Service Cloud.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2. Fin integration overview 5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "28",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": ".",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "workflows like handover and summarize conversation.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3. Ada documentation on email handoff 32",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 Describes Ada creating Salesforce cases with conversation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4. Salesforce StackExchange/Medium article 2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "\u2013 Explains the Assignment Rule header default",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "observed routing issues.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5. Intercom integration troubleshooting 6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6. SalesforceBen on Platform Events 19",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7. Salesforce Security review timeline 41",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# roadmap timing.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8. TechTarget on Ada Glass 3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "1",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "24",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "42",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "45",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Fin for platforms explained | Intercom Help",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "2",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "14",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "37",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Naraharisetty | Medium",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# salesforce-70a5820326b8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "3",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# powered-Ada-Glass",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "4",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "16",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "30",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "31",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "32",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "33",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "35",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "38",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Email handoffs | Ada | Documentation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "5",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "12",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "13",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "22",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "23",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "25",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "27",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "28",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "36",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "39",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "40",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "6",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "7",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "8",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "9",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "10",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "11",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "15",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "17",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "18",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "34",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Ada Glass configuration | Ada | Documentation",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "19",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "20",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "21",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce Platform Events: Explained | Salesforce Ben",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# https://www.salesforceben.com/salesforce-platform-events/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "26",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Need help for building FIN AI Agent - Intercom Community",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "29",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "41",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "46",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# Salesforce Security Review: Updates and Tips for Passing",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "43",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "44",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "# https://www.salesforce.com/blog/agent-to-human-handoff/",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "30",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "==",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

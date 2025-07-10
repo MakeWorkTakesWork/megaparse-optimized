@@ -1,0 +1,62 @@
+{
+  "document_id": "Value Framework - MASTER VERSION - Feb 12 2025 (1)_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "OVERVIEW",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "What are Value Drivers?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Prospect is likely proactively looking for or needing.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Generally revenue, cost, or risk related.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Cause a buyer to re-allocate discretionary funds.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "The Before Scenario, and the Negative Consequences of it.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "How Intercom Does It, and how we do it Better.",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Proof Points, such as customer references and case studies",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "What are Differentiators?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "Its value to the customer (in revenue, cost, and risk).",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    },
+    {
+      "section": "What are Trap-Setting Questions?",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}

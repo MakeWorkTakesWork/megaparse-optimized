@@ -1,0 +1,12 @@
+{
+  "document_id": "From Insights to Analyze, Train, Test, Deploy_parsed_RAG",
+  "recommended_chunk_size": 512,
+  "chunk_overlap": 128,
+  "logical_sections": [
+    {
+      "section": "# From Insights to Day 5 Analyze, Train, Test, Deploy",
+      "preserve_as_unit": false,
+      "priority_weight": 1.0
+    }
+  ]
+}
