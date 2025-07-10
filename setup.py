@@ -19,7 +19,7 @@ setup(
     description="Cost-optimized extensions for the MegaParse document parser",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/megaparse-optimized",
+    url="https://github.com/YOUR_GITHUB_USERNAME/megaparse-optimized",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
