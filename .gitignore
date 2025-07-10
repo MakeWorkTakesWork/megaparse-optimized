@@ -42,8 +42,13 @@ yarn-error.log*
 
 # Output files
 *_parsed.txt
+*_parsed_RAG.md
+*_parsed_RAG_chunking.json
+*_parsed_RAG_chunking.md
 *_metadata.json
 results/
+Copy of *
+UPDATED - *
 
 # IDE
 .idea/
@@ -55,3 +60,6 @@ results/
 # MegaParse specific
 batch_summary.json
 .megaparse_cost_tracker.json
+
+# Embedded repositories
+libs/megaparse_actual/
